@@ -1,0 +1,356 @@
+{
+  "2025-10-20": [
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Lun-Sab",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Lun-Sab",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Lun-Sab",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Lun-Sab",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Dom-Vie",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    }
+  ],
+  "2025-10-27": [
+    {
+      "cuadrilla": "Correctivos Lunes Festivo",
+      "vehiculo": "LSY 026",
+      "horario": "Lunes Festivo 08:00 - 18:00",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Lun-Sab",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Lun-Sab",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Lun-Sab",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Lun-Sab",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Dom-Vie",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    }
+  ],
+  "2025-11-03": [
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Mar-Sab",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Mar-Sab",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Mar-Sab",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Mar-Sab",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Lun-Vie",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    }
+  ],
+  "2025-11-10": [
+    {
+      "cuadrilla": "Correctivos Lunes Festivo",
+      "vehiculo": "LSY 026",
+      "horario": "Lunes Festivo 08:00 - 18:00",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Lun-Sab",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Lun-Sab",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Lun-Sab",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Lun-Sab",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Dom-Vie",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    }
+  ],
+  "2025-12-22": [
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Lun-Sab",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Lun-Sab",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Lun-Sab",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Lun-Sab",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Dom-Vie",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    }
+  ],
+  "2025-11-17": [
+    {
+      "cuadrilla": "Correctivos 1",
+      "vehiculo": "WFR 538",
+      "horario": "06:00 - 14:00 Mar-Sab",
+      "tecnicos": [
+        "Luis Beltran",
+        "Nicolas Sanchez"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 2",
+      "vehiculo": "LSY 026",
+      "horario": "10:00 - 19:00 Mar-Sab",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 3",
+      "vehiculo": "WFR 538",
+      "horario": "13:00 - 22:00 Mar-Sab",
+      "tecnicos": [
+        "Esneider Rodriguez",
+        "Patricia Diaz"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 4",
+      "vehiculo": "LQO 596",
+      "horario": "13:30 - 21:00 Mar-Sab",
+      "tecnicos": [
+        "William Pena",
+        "Juan Rios"
+      ]
+    },
+    {
+      "cuadrilla": "Correctivos 5",
+      "vehiculo": "LSY 026",
+      "horario": "21:00 - 06:00 Lun-Vie",
+      "tecnicos": [
+        "Farid Mora",
+        "Juan Delgado"
+      ]
+    },
+    {
+      "cuadrilla": "Domingo",
+      "vehiculo": "LSY 026",
+      "horario": "08:00 - 18:00 Domingo",
+      "tecnicos": [
+        "Jeison Alarcon",
+        "Luis Murillo"
+      ]
+    }
+  ]
+}
