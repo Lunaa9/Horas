@@ -202,5 +202,75 @@
         "Oscar Roa"
       ]
     }
+  ],
+  "2025-11-24": [
+    {
+      "horario": "Lun - Sab 06:00 - 14:00",
+      "supervisor": [
+        "Andres Bautista"
+      ]
+    },
+    {
+      "horario": "Lun - Sab 13:00 - 22:00",
+      "supervisor": [
+        "Oscar Roa"
+      ]
+    },
+    {
+      "horario": "Dom - Vie 21:00 - 06:00",
+      "supervisor": [
+        "Nathaly Mendivelso"
+      ]
+    },
+    {
+      "horario": "Administrativo",
+      "supervisor": [
+        "Jeimy Pachon"
+      ]
+    },
+    {
+      "horario": "Domingo 08:00 - 18:00",
+      "supervisor": [
+        "Andres Bautista"
+      ]
+    }
+  ],
+  "2025-12-01": [
+    {
+      "horario": "Lunes Festivo 08:00 - 18:00",
+      "supervisor": [
+        "Nathaly Mendivelso"
+      ]
+    },
+    {
+      "horario": "Lun - Sab 06:00 - 14:00",
+      "supervisor": [
+        "Nathaly Mendivelso"
+      ]
+    },
+    {
+      "horario": "Lun - Sab 13:00 - 22:00",
+      "supervisor": [
+        "Andres Bautista"
+      ]
+    },
+    {
+      "horario": "Dom - Vie 21:00 - 06:00",
+      "supervisor": [
+        "Oscar Roa"
+      ]
+    },
+    {
+      "horario": "Administrativo",
+      "supervisor": [
+        "Jeimy Pachon"
+      ]
+    },
+    {
+      "horario": "Domingo 08:00 - 18:00",
+      "supervisor": [
+        "Nathaly Mendivelso"
+      ]
+    }
   ]
 }
